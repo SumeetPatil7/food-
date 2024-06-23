@@ -3,7 +3,7 @@
 
 
 
-![logo](https://github.com/mumal885/food-website/blob/main/food/fd.png)
+![logo](https://github.com/SumeetPatil7/food-/blob/main/food%20%20%2B/fd.png)
 # food-website
 This food-website is coded in html, css,js.
 
